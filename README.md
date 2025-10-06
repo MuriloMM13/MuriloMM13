@@ -1,5 +1,3 @@
-<!-- Main GitHub Profile README - Murilo Muller -->
-
 <h1 align="center">👋 Hi, I'm Murilo Muller</h1>
 
 <p align="center">
