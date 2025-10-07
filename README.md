@@ -6,6 +6,37 @@
   💡 Focused on <b>Analog & Digital IC Design, ASIC Flows, and FPGA</b>
 </p>
 
+<!-- Animated clock waveform -->
+<p align="center">
+  <svg width="600" height="70" viewBox="0 0 600 70" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Animated clock signal">
+    <style>
+      .wave {
+        fill: none;
+        stroke: #3b82f6;
+        stroke-width: 4;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-dasharray: 1200;
+        stroke-dashoffset: 0;
+        animation: move 3s linear infinite;
+      }
+      @keyframes move {
+        from { stroke-dashoffset: 1200; }
+        to   { stroke-dashoffset: 0; }
+      }
+    </style>
+    <path class="wave" d="M0 40 
+                          H40 V10 H80 V40 
+                          H120 V10 H160 V40 
+                          H200 V10 H240 V40 
+                          H280 V10 H320 V40 
+                          H360 V10 H400 V40 
+                          H440 V10 H480 V40 
+                          H520 V10 H560 V40 
+                          H600" />
+  </svg>
+</p>
+
 ---
 
 ### 🧠 About Me
