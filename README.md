@@ -11,6 +11,8 @@
   <img src="assets/differential_wave.svg" width="600" alt="Differential pair wave animation">
 </p>
 
+---
+
 ### 🧠 About Me
 
 I'm passionate about **analog and digital circuit design**, with experience in **simulation, layout, and implementation**.  
