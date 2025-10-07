@@ -6,11 +6,6 @@
   💡 Focused on <b>Analog & Digital IC Design, ASIC Flows, and FPGA</b>
 </p>
 
-<!-- Differential pair wave divider -->
-<p align="center">
-  <img src="assets/differential_wave.svg" width="600" alt="Differential pair wave animation">
-</p>
-
 ---
 
 ### 🧠 About Me
