@@ -11,8 +11,6 @@
   <img src="assets/clock.svg" width="600" alt="Animated clock signal">
 </p>
 
----
-
 ### 🧠 About Me
 
 I'm passionate about **analog and digital circuit design**, with experience in **simulation, layout, and implementation**.  
