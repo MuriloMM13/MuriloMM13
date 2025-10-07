@@ -10,36 +10,39 @@
 
 ### 🧠 About Me
 
-I'm interested in **analog and digital circuit design**, with experience in projects involving **simulation, layout, and implementation**.  
-I enjoy working on practical solutions that connect theory with real applications.  
-Currently, I develop **analog and digital circuit projects**, focusing on **simulation, layout, and characterization**.
+I'm passionate about **analog and digital circuit design**, with experience in **simulation, layout, and implementation**.  
+I enjoy developing practical solutions that connect theory with real hardware applications.  
+Currently, I’m working on **analog and digital IC design projects**, focusing on **characterization and full-custom standard-cell design**.
 
 - 🛠️ **Tools:** Cadence Virtuoso, ModelSim, STM32CubeIDE, LTspice  
 - 💻 **Languages:** Verilog, SystemVerilog, Python, C++, Matlab  
-- 🚀 Always looking to learn more about semiconductors and EDA tools
+- 🚀 Always learning more about **semiconductors, ASIC flows, and EDA tools**
 
 ---
 
-### 📊 Statistics
+### 📊 GitHub Statistics
 
-<p align="center">
+<div align="center">
+
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=MuriloMM13&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" 
+    src="https://github-readme-stats.vercel.app/api?username=MuriloMM13&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" 
     alt="MuriloMM13 GitHub Stats" 
     height="165"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloMM13&layout=compact&theme=transparent&hide_border=true&langs_count=10" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloMM13&layout=compact&theme=transparent&hide_border=true&langs_count=8&hide=html,css,shell&cache_seconds=1800" 
     alt="Top Languages" 
     height="165"
   />
-</p>
+
+</div>
 
 ---
 
 ### 📫 Contact
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/murilomuller7/)  
-- ✉️ murimattosmuller@gmail.com  
+<div align="center">
 
+[💼 LinkedIn](https://www.linkedin.com/in/murilomuller7/) • [✉️ E-mail](mailto:murimattosmuller@gmail.com)
 
+</div>
