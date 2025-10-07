@@ -6,9 +6,9 @@
   💡 Focused on <b>Analog & Digital IC Design, ASIC Flows, and FPGA</b>
 </p>
 
-<!-- Animated clock waveform -->
+<!-- Differential pair wave divider -->
 <p align="center">
-  <img src="assets/clock.svg" width="600" alt="Animated clock signal">
+  <img src="assets/differential_wave.svg" width="600" alt="Differential pair wave animation">
 </p>
 
 ### 🧠 About Me
