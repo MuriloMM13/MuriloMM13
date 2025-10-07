@@ -1,0 +1,39 @@
+<p align="center">
+  <svg width="600" height="80" viewBox="0 0 600 80" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Differential pair wave animation">
+    <path d="M0 40 
+             C30 10, 70 10, 100 40 
+             C130 70, 170 70, 200 40 
+             C230 10, 270 10, 300 40 
+             C330 70, 370 70, 400 40 
+             C430 10, 470 10, 500 40 
+             C530 70, 570 70, 600 40"
+          fill="none"
+          stroke="#3b82f6"
+          stroke-width="3"
+          stroke-linecap="round"
+          stroke-dasharray="1200"
+          stroke-dashoffset="0">
+      <animate attributeName="stroke-dashoffset" from="1200" to="0" dur="4s" repeatCount="indefinite"/>
+    </path>
+
+    <path d="M0 40 
+             C30 70, 70 70, 100 40 
+             C130 10, 170 10, 200 40 
+             C230 70, 270 70, 300 40 
+             C330 10, 370 10, 400 40 
+             C430 70, 470 70, 500 40 
+             C530 10, 570 10, 600 40"
+          fill="none"
+          stroke="#f97316"
+          stroke-width="3"
+          stroke-linecap="round"
+          stroke-dasharray="1200"
+          stroke-dashoffset="0">
+      <animate attributeName="stroke-dashoffset" from="1200" to="0" dur="4s" repeatCount="indefinite"/>
+    </path>
+
+    <!-- Optional labels -->
+    <text x="10" y="20" fill="#3b82f6" font-family="monospace" font-size="14">Vin+</text>
+    <text x="10" y="70" fill="#f97316" font-family="monospace" font-size="14">Vin−</text>
+  </svg>
+</p>
