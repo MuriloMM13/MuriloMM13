@@ -6,15 +6,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=22&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Accessing+system...;Decrypting+profile...;Welcome,+Operator+Murilo.">
 </p>
 
----
-
-<div align="center">
-
-<pre style="background-color:#000000; color:#00FF41; padding:16px; border-radius:10px; font-family:'Source Code Pro', monospace; text-align:left; max-width:700px; overflow:auto;">
-<span style="color:#00FF41;">murilo@matrix:~$</span> whoami
-</pre>
-
-</div>
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=20&duration=2500&pause=99999&color=00FF41&center=false&vCenter=true&width=420&lines=murilo@matrix:~$+whoami">
+</p
 
 **Murilo Muller**
 
@@ -22,57 +16,37 @@
 ⚡ Undergraduate in **Electrical Engineering (UFSM – Brazil)**  
 💾 Focused on **Analog/Digital IC Design, ASIC flows, and FPGA systems**
 
-
-<div align="center">
-
-<pre style="background-color:#000000; color:#00FF41; padding:16px; border-radius:10px; font-family:'Source Code Pro', monospace; text-align:left; max-width:700px; overflow:auto;">
-<span style="color:#00FF41;">murilo@matrix:~$</span> status --now
-</pre>
-
-</div>
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=20&duration=2500&pause=99999&color=00FF41&center=false&vCenter=true&width=420&lines=murilo@matrix:~$+status+--now">
+</p>
 
 🛠️ Turning ideas into **silicon** — developing real **analog circuits**  
 💻 Exploring the **digital world** — **logic**, **synthesis**, and **architecture**  
 💡 Exploring new methods in **full-custom IC design** and **EDA development**
 
-<div align="center">
-
-<pre style="background-color:#000000; color:#00FF41; padding:16px; border-radius:10px; font-family:'Source Code Pro', monospace; text-align:left; max-width:700px; overflow:auto;">
-<span style="color:#00FF41;">murilo@matrix:~$</span> > tools --list
-</pre>
-
-</div>
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=20&duration=2500&pause=99999&color=00FF41&center=false&vCenter=true&width=420&lines=murilo@matrix:~$+tools+--list">
+</p>
 
 📜 **Languages:** SystemVerilog, Python, C/C++, MATLAB  
-🧩 **Software and Tools:** Cadence Virtuoso, Cadence Tools, ModelSim, STM32CubeIDE, LTspice 
+🧩 **Software and Tools:** Cadence Virtuoso, Cadence Tools, ModelSim, STM32CubeIDE, LTspice  
 🔧 **Technical Knowledge:** Analog and digital design, full-custom ASIC design, FPGA, embedded systems
 
-<div align="center">
-
-<pre style="background-color:#000000; color:#00FF41; padding:16px; border-radius:10px; font-family:'Source Code Pro', monospace; text-align:left; max-width:700px; overflow:auto;">
-<span style="color:#00FF41;">murilo@matrix:~$</span> follow the white rabbit
-
-</pre>
-
-</div>
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=20&duration=2500&pause=99999&color=00FF41&center=false&vCenter=true&width=520&lines=murilo@matrix:~$+follow_white_rabbit.sh">
+</p>
 
 <p align="center">
   <a href="https://github.com/MuriloMM13?tab=repositories">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2c2NTNjNmFwMGRtdm1iZ2pxcnA4NjE1cmF1aW9ybWhkYjczamoyNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Bp3dFfoqpCKFyXuSzP/giphy.gif" width="90" alt="white rabbit">
+    <img src="./assets/white_rabbit_matrix.gif" width="90" alt="white rabbit">
   </a>
   <br/>
   <b><i>"Follow the white rabbit to discover the projects."</i></b>
 </p>
 
----
-
-<div align="center">
-
-<pre style="background-color:#000000; color:#00FF41; padding:16px; border-radius:10px; font-family:'Source Code Pro', monospace; text-align:left; max-width:700px; overflow:auto;">
-<span style="color:#00FF41;">murilo@matrix:~$</span> system.log --summary
-</pre>
-
-</div>
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=20&duration=2500&pause=99999&color=00FF41&center=false&vCenter=true&width=520&lines=murilo@matrix:~$+system.log+--summary">
+</p>
 
 <div align="center">
   <img 
@@ -87,16 +61,9 @@
   />
 </div>
 
----
-
-<div align="center">
-
-<pre style="background-color:#000000; color:#00FF41; padding:16px; border-radius:10px; font-family:'Source Code Pro', monospace; text-align:left; max-width:700px; overflow:auto;">
-<span style="color:#00FF41;">murilo@matrix:~$</span> contact --open
-</pre>
-
-</div>
-
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=20&duration=2500&pause=99999&color=00FF41&center=false&vCenter=true&width=420&lines=murilo@matrix:~$+contact+--open">
+</p>
 
 <div align="center">
 
