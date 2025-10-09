@@ -49,14 +49,14 @@
 </p>
 
 <div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=MuriloMM13&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" 
-    alt="MuriloMM13 GitHub Stats" 
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=MuriloMM13&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800&bg_color=00000000&title_color=00FF41&text_color=FFFFFF&icon_color=FFFFFF"
+    alt="MuriloMM13 GitHub Stats"
     height="165"
   />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloMM13&layout=compact&theme=transparent&hide_border=true&langs_count=8&hide=html,css,shell&cache_seconds=1800" 
-    alt="Top Languages" 
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloMM13&layout=compact&hide_border=true&langs_count=8&hide=html,css,shell&cache_seconds=1800&bg_color=00000000&title_color=00FF41&text_color=FFFFFF"
+    alt="Top Languages"
     height="165"
   />
 </div>
@@ -65,10 +65,23 @@
   <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=20&duration=2500&pause=99999&color=00FF41&center=false&vCenter=true&width=420&lines=murilo@matrix:~$+contact+--open">
 </p>
 
-<div align="center">
+<p align="center">
+  <a href="https://www.linkedin.com/in/murilomuller7/">
+    <img src="https://img.shields.io/badge/LinkedIn-00cc55?style=for-the-badge&logo=linkedin&logoColor=black" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://orcid.org/0009-0000-8899-9338">
+    <img src="https://img.shields.io/badge/ORCID-00cc55?style=for-the-badge&logo=orcid&logoColor=black" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:murimattosmuller@gmail.com">
+    <img src="https://img.shields.io/badge/Email-00cc55?style=for-the-badge&logo=gmail&logoColor=black" />
+  </a>
+</p>
 
-[💼 LinkedIn](https://www.linkedin.com/in/murilomuller7/) •
-[🔗 ORCID](https://orcid.org/0009-0000-8899-9338) •
-[✉️ E-mail](mailto:murimattosmuller@gmail.com)
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=20&duration=2500&pause=99999&color=00FF41&center=false&vCenter=true&width=520&lines=murilo@matrix:~$+shutdown+-h+now">
+</p>
 
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=18&duration=2000&pause=2000&color=00FF41&center=true&vCenter=true&width=400&lines=The+Matrix+has+you..." />
+</p>
+
