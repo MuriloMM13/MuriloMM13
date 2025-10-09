@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/matrix.gif" width="100%" alt="Matrix Rain Banner">
+  <img src="./assets/matrix (1).gif" width="100%" alt="Matrix Rain Banner">
 </p>
 
 <h1 align="center">🟩 MURILO MULLER 🟩</h1>
