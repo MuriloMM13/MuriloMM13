@@ -38,7 +38,7 @@
 
 <p align="center">
   <a href="https://github.com/MuriloMM13?tab=repositories">
-    <img src="./assets/white_rabbit_matrix.gif" width="90" alt="white rabbit">
+    <img src="./assets/white_rabbit.png" width="110" alt="white rabbit">
   </a>
   <br/>
   <b><i>"Follow the white rabbit to discover the projects."</i></b>
